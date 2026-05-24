@@ -1,0 +1,241 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "square"
+	filename: "bienvenido"
+	group: ""
+	icon: "minecraft:grass_block"
+	id: "4FA565A70273C468"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["&aQue tal si estas leyendo esto debes ser nuevo en este mundo. Primero que nada elije que arma escojeras estas serviran o no dependiendo de tu clase si no es una arma de tu clase no podras usar hechizos pero seguiras haciendo daño"]
+			icon: {
+				Count: 1
+				id: "minecraft:wooden_sword"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "58CB9CAAB2EB7D63"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A5105B017376A59"
+					table_id: 405550839613976496L
+					type: "choice"
+				}
+				{
+					id: "6E60396DBE525FD4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "75BA3F9726FEACE2"
+				title: "Leer"
+				type: "checkmark"
+			}]
+			title: "Primeros pasos"
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["58CB9CAAB2EB7D63"]
+			description: ["&2Las gemas de soporte mejoran tus hechizos algunas reducen el tiempo de espera, mejoran el daño de cierto tipo, etc"]
+			icon: "mmorpg:skill_gems/skill/int"
+			id: "4A7F8AE61297BEFD"
+			rewards: [{
+				id: "14EE515C8047BB33"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mmorpg:chest/uncommon_gear"
+					tag: {
+						mmorpg_loot_chest: "{\"num\":5,\"rar\":\"uncommon\",\"lvl\":3,\"id\":\"support_gem\",\"key\":\"\"}"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "244E58D43FBF62E0"
+				title: "Entendido"
+				type: "checkmark"
+			}]
+			title: "Gemas  de soporte"
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["58CB9CAAB2EB7D63"]
+			description: ["&2Los aumentos aumentan tus estadisticas estos dependiendo de si las stats son mas grandes o bajas consumiran mas aura ahora mismo tienes 100 asi que intenta distribuirlo bien"]
+			icon: "mmorpg:skill_gems/aura/str"
+			id: "0CF307E00AE8ED89"
+			rewards: [{
+				id: "149C8ACE7C13A2DC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "mmorpg:chest/uncommon_gear"
+					tag: {
+						mmorpg_loot_chest: "{\"num\":5,\"rar\":\"uncommon\",\"lvl\":3,\"id\":\"aura\",\"key\":\"\"}"
+					}
+				}
+				type: "item"
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "482F8DB5DD1727F9"
+				title: "Entendido"
+				type: "checkmark"
+			}]
+			title: "Aumentos"
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["58CB9CAAB2EB7D63"]
+			description: ["&2Estas son las armaduras como veras hay distintos tipos que veras al ver sus requisitos. La armadura  de caballero antiguo es de lamina un tipo de armadura enfocado en la fuerza aumenta la vida y la armadura, la de hueso  mejora tu probabilidad  de esquivar y la vida, mientras que la de mago solo mejora el escudo magico. Ademas hay subtipos que no estan para elejir las prendas de vestir mejoran tu capacidad de esquivar y tu escudo magico las de malla tu escudo magico y tu armadura y las de bergatin vida armadura y capacidad de esquivar"]
+			icon: {
+				Count: 1
+				id: "minecraft:iron_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7B825AC7E26DFF5E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37FE7C316F041F56"
+					table_id: 8672695084726290362L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71ADBE0C03EB46A2"
+					table_id: 7074154712315855923L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "232ADCF721DBEC69"
+					table_id: 8493327020853369464L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C18FD6938D03EA0"
+					table_id: 5741053327200068691L
+					type: "choice"
+				}
+			]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "47826B17E2B11A5C"
+				title: "Entendido"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["58CB9CAAB2EB7D63"]
+			description: ["&2Cada clase tiene un item en su mano izquierda. El escudo es para el guerrero y paladin, el tomo es para las clases que usen magia y el totem para las clase donde haiga que esquivar"]
+			icon: {
+				Count: 1
+				id: "minecraft:shield"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "7599746D6A7C62EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3632A6087FFE7C42"
+				table_id: 7401807202655080641L
+				type: "choice"
+			}]
+			shape: "square"
+			size: 1.5d
+			tasks: [{
+				id: "7A4B5F0443310AE0"
+				title: "Entendido"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["58CB9CAAB2EB7D63"]
+			description: ["&7Es hora de hacer tu primera mision demuestra de lo que estas hecho. Si logras completarla tendre una gran encomienda para ti"]
+			id: "70D7FD074919037C"
+			size: 1.5d
+			tasks: [
+				{
+					entity: "irons_spellbooks:dead_king_corpse"
+					icon: "minecraft:skeleton_skull"
+					id: "07666256ED681628"
+					title: "Mata Esqueletos"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "minecraft:creeper"
+					icon: "minecraft:creeper_head"
+					id: "7A032AED1E653B5D"
+					title: "Mata creepers"
+					type: "kill"
+					value: 10L
+				}
+				{
+					entity: "minecraft:zombie"
+					icon: "minecraft:zombie_head"
+					id: "5149B20EFB23EDD0"
+					title: "Mata Zombis"
+					type: "kill"
+					value: 10L
+				}
+			]
+			x: -0.75d
+			y: 4.5d
+		}
+		{
+			dependencies: ["70D7FD074919037C"]
+			description: ["&7&o¿Estas dispuesto a ayudarme a liberar este mundo del ciclo?"]
+			icon: "minecraft:recovery_compass"
+			id: "60BCD461168E3B3F"
+			size: 1.5d
+			tasks: [{
+				id: "6E2CE051E30DF429"
+				title: "Si"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: 7.5d
+		}
+	]
+	title: "Bienvenido"
+}

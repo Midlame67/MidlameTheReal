@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "true",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "false",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "false",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "false",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "false",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "false",
+			"facing": "north"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "true",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "false",
+			"facing": "south"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "true",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "false",
+			"facing": "west"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "true",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "true",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "true",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "true",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "root",
+			"open": "false",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "block",
+			"open": "false",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "half_block",
+			"open": "false",
+			"moving": "false",
+			"facing": "east"
+		},
+		"Name": "block_factorys_bosses:underworld_arena_door"
+	}
+]
